@@ -232,31 +232,5 @@ def tic_tac_toe():
   print("THE END")
   
   
-  
 tic_tac_toe()
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   
